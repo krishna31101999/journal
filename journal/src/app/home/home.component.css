@@ -1,0 +1,74 @@
+
+#title{
+    text-align: center; 
+    /* padding:0.5vw 0 ; */
+    color: white;  
+    font-size:1.5vw ; 
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;   
+}
+
+/* @media only screen and (max-width:600px)
+{
+    a{
+        font-size: 1px;
+    }
+} */
+
+
+
+fieldset{
+    background-color: #f4f4f4;
+    border: 1px solid #cccccc;
+   }
+   legend{
+       border: 1px solid #cccccc;
+       background-color: white;
+       font-size: 1vw;
+       padding:0 0.3vw ;
+       width: auto;
+       margin-left: 1vw;
+       
+   }
+   label {
+    color: #003366;
+    text-align: right;
+    font-size: 1vw;
+    text-align: right;
+    vertical-align: middle;
+    padding-right: 1em;
+    margin-left: 0px;
+    line-height: 1vw;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+   }
+   input{
+      height: 1.5vw;
+      line-height: 1vw;
+      width: 10vw;
+      font-size: 100%;
+      margin-bottom: 2px;
+      margin-top: 2px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+   }
+   form{
+      
+   }
+   button{
+       display: inline;
+       margin-right: 1vw;
+       border-radius: 0.35em;
+       border: 1px solid #cecece;
+       font-size: 1vw;
+       box-shadow: 1px 1px 2px #555555;
+       color: #0000ee;
+       background-color: #cecece;
+   }
+   #loginhelp{
+       display: inline;
+       margin-right: 1.2vw;
+       text-decoration: none;
+       font-size: 1.3vw;
+       color: #0000ee;
+   }
